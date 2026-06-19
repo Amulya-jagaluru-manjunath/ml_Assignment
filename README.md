@@ -4,15 +4,15 @@
 ---
 
 ## Dataset
-Download from Kaggle: https://www.kaggle.com/datasets/prince7489/credit-card-fraud-2025
-Save as: `credit_card_fraud_2025.csv` in the **same folder** as the notebooks.
+Kaggle: https://www.kaggle.com/datasets/prince7489/credit-card-fraud-2025
+Saved as: `credit_card_fraud_2025.csv`
 
 ---
 
 ## Environment Setup (Anaconda)
 
 ```bash
-# Activate your conda environment (or create one)
+# Activate your conda environment 
 conda activate thesis_env      # or: conda create -n ml_assign python=3.10 -y && conda activate ml_assign
 
 # Install all dependencies
@@ -28,7 +28,7 @@ jupyter notebook
 
 ```
 ml_assignment/
-├── credit_card_fraud_2025.csv          ← YOUR DATASET (download from Kaggle)
+├── credit_card_fraud_2025.csv          
 ├── requirements.txt
 ├── RQ1_Baseline_Performance.ipynb
 ├── RQ2_Model_Comparison.ipynb
