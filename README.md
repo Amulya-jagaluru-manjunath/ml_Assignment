@@ -1,5 +1,5 @@
 # ML Assignment — Credit Card Fraud Detection (2025)
-## 7 Research Question Notebooks — Mac Mini M4 Setup
+## 7 Research Question Notebooks 
 
 ---
 
@@ -9,7 +9,7 @@ Save as: `credit_card_fraud_2025.csv` in the **same folder** as the notebooks.
 
 ---
 
-## Environment Setup (Mac Mini M4, Anaconda)
+## Environment Setup (Anaconda)
 
 ```bash
 # Activate your conda environment (or create one)
